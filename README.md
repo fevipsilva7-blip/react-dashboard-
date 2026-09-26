@@ -19,7 +19,9 @@ npm install
 npm run dev
 ```
 
-Acesse `http://localhost:5173`.
+## 🔗 Demo
+
+Veja o dashboard funcionando: [react-dashboard2-tau.vercel.app](https://react-dashboard2-tau.vercel.app/)
 
 ##  Tecnologias
 

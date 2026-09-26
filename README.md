@@ -1,8 +1,8 @@
-# 📊 Pulse — Dashboard em React
+#  Pulse — Dashboard em React
 
 Painel administrativo responsivo construído com **React + Vite + Recharts**, com KPIs, gráficos (linha, barra e pizza), tabela de pedidos e alternância de tema claro/escuro.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Cards de KPI (receita, pedidos, visitantes, conversão)
 - Gráfico de receita mensal (linha)
@@ -12,7 +12,7 @@ Painel administrativo responsivo construído com **React + Vite + Recharts**, co
 - Tema claro/escuro
 - Layout responsivo (sidebar recolhe em telas pequenas)
 
-## 🚀 Como rodar
+##  Como rodar
 
 ```bash
 npm install
@@ -21,13 +21,13 @@ npm run dev
 
 Acesse `http://localhost:5173`.
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - React 18
 - Vite
 - Recharts
 
-## 📂 Estrutura
+##  Estrutura
 
 ```
 react-dashboard/
